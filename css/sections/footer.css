@@ -57,6 +57,7 @@
   .footer__social li img {
     width: 45%;
     height: 45%;
+    cursor: pointer;
   
     object-fit: contain;
   }

@@ -1,6 +1,7 @@
 .header__nav {
     display: flex;
     overflow: hidden;
+    cursor: pointer;
   }
   
   .header__logo {
